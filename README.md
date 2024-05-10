@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O LinkHub é um agregador de links para usar como cartão de visitas online. Hospedado atráves do <a href="https://www.netlify.com/">Netlify</a>, o projeto conta com responsividade e opção de trocar entre o modo escuro/claro.
 
-- [Acesse o projeto aqui]()
+- [Acesse o projeto aqui](https://link-hub-project.netlify.app/)
 - [Assistir aulas na RocketSeat](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
