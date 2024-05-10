@@ -27,7 +27,7 @@ Projeto desenvolvido como parte do curso <a href="https://lp.rocketseat.com.br/d
 📱 Mobile - Light Mode
 </h2>
 <p align="center">
-  <img alt="projeto versão mobile e modo claro" src=".github/preview-mobile-light.png" width="50%">
+  <img alt="projeto versão mobile e modo claro" src=".github/preview-mobile-light.png" width="30%">
 </p>
 
 ## 🚀 Tecnologias
