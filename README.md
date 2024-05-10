@@ -20,14 +20,14 @@ Projeto desenvolvido como parte do curso <a href="https://lp.rocketseat.com.br/d
 🖥️ Desktop - Dark Mode
 </h2>
 <p align="center">
-  <img alt="projeto versão desktop e modo escuro" src=".github/preview-desktop-dark.jpg" width="100%">
+  <img alt="projeto versão desktop e modo escuro" src=".github/preview-desktop-dark.png" width="100%">
 </p>
 
 <h2>
 📱 Mobile - Light Mode
 </h2>
 <p align="center">
-  <img alt="projeto versão mobile e modo claro" src=".github/preview-desktop-light.jpg" width="100%">
+  <img alt="projeto versão mobile e modo claro" src=".github/preview-mobile-light.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
