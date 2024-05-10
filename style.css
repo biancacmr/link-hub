@@ -6,6 +6,7 @@
 
 :root {
     --text-color: #fff;
+    --bg-color: #000;
     --bg-url: url(assets/bg-desktop.jpg);
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.05);
@@ -17,6 +18,7 @@
 
 .light {
     --text-color: #000;
+    --bg-color: #fff;
     --bg-url: url(assets/bg-desktop-light.jpg);
     --stroke-color: rgba(0, 0, 0, 0.5);
     --surface-color: rgba(0, 0, 0, 0.05);
@@ -28,7 +30,7 @@
 
 body {
     /* background-color: #000; */
-    background: var(--bg-url) no-repeat top center/cover;
+    background: var(--bg-color) var(--bg-url) no-repeat top center/cover;
     font-size: 16px;
     height: 100%;
     min-height: 100vh;
